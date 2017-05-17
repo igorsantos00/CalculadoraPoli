@@ -28,7 +28,7 @@ namespace Aula10
            operacoes [0] = new Soma();
            operacoes [1] = new Subtracao();
            operacoes [2] = new Divisao();
-            operacoes[3] = new Multiplicacao();
+           operacoes [3] = new Multiplicacao();
 
 
             Console.WriteLine("Digite um número");
@@ -37,7 +37,13 @@ namespace Aula10
             Console.WriteLine("Digite segundo número");
             double n2 = double.Parse(Console.ReadLine());
 
-            Menu();
+            Console.WriteLine("Digite qual a Operação ?");
+
+            for (int i = 0; i < operacoes.Length ; i++)
+            {
+                Console.WriteLine(i + " - " + operacoes[i].GetDescricao());
+            }
+
             int opc = int.Parse(Console.ReadLine());
 
             Operacao escolhida = operacoes[opc];

@@ -15,5 +15,10 @@ namespace Aula10
 
         }
 
+        public override string GetDescricao()
+        {
+            return ToString();
+        }
+
     }
 }

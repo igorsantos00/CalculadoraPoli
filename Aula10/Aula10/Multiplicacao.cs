@@ -12,5 +12,10 @@ namespace Aula10
         {
             return n1 * n2;
         }
+
+        public override string GetDescricao()
+        {
+            return ToString();
+        }
     }
 }

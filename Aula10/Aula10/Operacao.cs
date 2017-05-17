@@ -14,5 +14,12 @@ namespace Aula10
             return 0;
         }
 
+        public virtual String GetDescricao()
+        {
+            return ToString();
+
+
+        }
+
     }
 }
