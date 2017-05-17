@@ -10,3 +10,9 @@ C:\Users\igorsantos\Documents\Igor\POO\Aula10\Aula10\obj\Debug\Aula10.pdb
 C:\Users\igorsantos\Source\Repos\CalculadoraPoli\Aula10\Aula10\bin\Debug\Aula10.exe.config
 C:\Users\igorsantos\Source\Repos\CalculadoraPoli\Aula10\Aula10\obj\Debug\Aula10.exe
 C:\Users\igorsantos\Source\Repos\CalculadoraPoli\Aula10\Aula10\obj\Debug\Aula10.pdb
+C:\Users\igorsantos\Source\Repos\CalculadoraPoli2\Aula10\Aula10\bin\Debug\Aula10.exe.config
+C:\Users\igorsantos\Source\Repos\CalculadoraPoli2\Aula10\Aula10\obj\Debug\Aula10.exe
+C:\Users\igorsantos\Source\Repos\CalculadoraPoli2\Aula10\Aula10\obj\Debug\Aula10.pdb
+C:\Users\igorsantos\Source\Repos\CalculadoraPoli2\Aula10\Aula10\bin\Debug\Aula10.exe
+C:\Users\igorsantos\Source\Repos\CalculadoraPoli2\Aula10\Aula10\bin\Debug\Aula10.pdb
+C:\Users\igorsantos\Source\Repos\CalculadoraPoli2\Aula10\Aula10\obj\Debug\Aula10.csprojResolveAssemblyReference.cache
