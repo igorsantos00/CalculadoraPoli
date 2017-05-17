@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Divisao.cs" />
+    <Compile Include="Exponencial.cs" />
+    <Compile Include="Modulo.cs" />
     <Compile Include="Multiplicacao.cs" />
     <Compile Include="Operacao.cs" />
     <Compile Include="Program.cs" />

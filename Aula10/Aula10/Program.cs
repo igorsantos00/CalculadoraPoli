@@ -23,12 +23,14 @@ namespace Aula10
         static void Main(string[] args)
         {
 
-            Operacao[] operacoes = new Operacao[4];
+            Operacao[] operacoes = new Operacao[6];
 
            operacoes [0] = new Soma();
            operacoes [1] = new Subtracao();
            operacoes [2] = new Divisao();
            operacoes [3] = new Multiplicacao();
+           operacoes [4] = new Modulo();
+           operacoes [5] = new Exponencial();
 
 
             Console.WriteLine("Digite um número");
