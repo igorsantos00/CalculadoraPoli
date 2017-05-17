@@ -14,6 +14,7 @@ namespace Aula10
             Console.WriteLine("0.Soma");
             Console.WriteLine("1.Subtração");
             Console.WriteLine("2.Divisão");
+            Console.WriteLine("3.Multiplicação");
 
 
         }
@@ -22,11 +23,12 @@ namespace Aula10
         static void Main(string[] args)
         {
 
-            Operacao[] operacoes = new Operacao[3];
+            Operacao[] operacoes = new Operacao[4];
 
            operacoes [0] = new Soma();
            operacoes [1] = new Subtracao();
            operacoes [2] = new Divisao();
+            operacoes[3] = new Multiplicacao();
 
 
             Console.WriteLine("Digite um número");
